@@ -1,0 +1,6 @@
+ goals.txt
+My Personal and Academic Goals for Next Year
+- Improve my GPA by at least 0.5
+- Learn an advanced topic (e.g., data structures or deep learning)
+- Read one technical book per quarter
+- Build a small personal project 
